@@ -241,4 +241,4 @@ This repository serves as the official landing page for NeoDownloader. The softw
 **Get the most recent version of NeoDownloader today!**
 
 ---
-**Last updated:** 2026-10-09 08:41:05 UTC
+**Last updated:** 2026-10-09 15:56:52 UTC
